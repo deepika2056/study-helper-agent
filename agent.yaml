@@ -1,0 +1,16 @@
+spec_version: "0.1.0"
+
+name: study-helper-agent
+version: 0.1.0
+description: "An AI agent that helps students understand concepts, summarize notes, and generate questions"
+
+model:
+  preferred: claude-sonnet-4-5-20250929
+
+skills:
+  - study-helper
+
+tags:
+  - education
+  - student
+  - hackathon

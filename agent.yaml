@@ -9,7 +9,8 @@ model:
 
 skills:
   - study-helper
-
+  - quiz-generator
+  
 tags:
   - education
   - student

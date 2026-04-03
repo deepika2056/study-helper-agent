@@ -5,7 +5,7 @@ version: 0.1.0
 description: "An AI agent that helps students understand concepts, summarize notes, and generate questions"
 
 model:
-  preferred: anthropic:claude-sonnet-4-5-20250929
+  preferred: mock:model
 
 skills:
   - study-helper
